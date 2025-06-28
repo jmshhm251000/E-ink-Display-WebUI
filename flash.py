@@ -32,7 +32,7 @@ from PIL import Image
 import traceback
 
 
-logging.basicConfig(level=logging.info)
+logging.basicConfig(level=logging.INFO)
 
 
 def main(args):
